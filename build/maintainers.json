@@ -461,11 +461,6 @@
     "mjysci",
     "TonyRL"
   ],
-  "/apnews/nav/:nav{.*}?": [
-    "zoenglinghou",
-    "mjysci",
-    "TonyRL"
-  ],
   "/app-center/release/:user/:app/:distribution_group": [
     "Rongronggg9"
   ],
@@ -1403,8 +1398,7 @@
   ],
   "/cnki/journals/:name": [
     "Fatpandac",
-    "Derekmini",
-    "pseudoyu"
+    "Derekmini"
   ],
   "/cnljxh/:category?/:id?": [],
   "/cntheory/paper/:id?": [
@@ -1455,6 +1449,9 @@
     "xizeyoupan"
   ],
   "/coolapk/tuwen/:type?": [
+    "xizeyoupan"
+  ],
+  "/coolapk/tuwen-xinxian": [
     "xizeyoupan"
   ],
   "/coolapk/user/:uid/dynamic": [
@@ -1879,8 +1876,7 @@
     "nczitzk"
   ],
   "/douban/topic/:id/:sort?": [
-    "LogicJake",
-    "pseudoyu"
+    "LogicJake"
   ],
   "/douban/movie/ustop": [
     "DIYgod"
@@ -1889,9 +1885,7 @@
     "numm233",
     "nczitzk"
   ],
-  "/douban/people/:userid/status/:routeParams?": [
-    "alfredcai"
-  ],
+  "/douban/people/:userid/status/:routeParams?": [],
   "/douban/people/:userid/wish/:routeParams?": [
     "exherb"
   ],
@@ -2125,8 +2119,7 @@
   ],
   "/fda/cdrh/:titleOnly?": [],
   "/fediverse/timeline/:account": [
-    "DIYgod",
-    "pseudoyu"
+    "DIYgod"
   ],
   "/feng/forum/:id/:type?": [
     "TonyRL"
@@ -2622,7 +2615,7 @@
   "/gov/immiau/news": [
     "liu233w"
   ],
-  "/gov/jgjcndrc/:columnId?/:subColumnId?": [
+  "/gov/jgjcndrc/:id?": [
     "nczitzk"
   ],
   "/gov/jiangsu/wlt/:page?": [
@@ -2735,9 +2728,6 @@
   ],
   "/gov/pbc/zcyj": [
     "Fatpandac"
-  ],
-  "/gov/pudong/zwgk": [
-    "himingway"
   ],
   "/gov/safe/business/:site?": [
     "nczitzk"
@@ -3500,11 +3490,7 @@
   "/iwara/subscriptions": [
     "FeCCC"
   ],
-  "/ixigua/user/video/:uid/:disableEmbed?": [
-    "FlashWingShadow",
-    "Fatpandac",
-    "pseudoyu"
-  ],
+  "/ixigua/user/video/:uid/:disableEmbed?": [],
   "/j-test/news": [
     "kuhahku"
   ],
@@ -4206,9 +4192,8 @@
   "/misskey/notes/featured/:site": [
     "Misaka13514"
   ],
-  "/misskey/users/notes/:username/:routeParams?": [
-    "siygle",
-    "SnowAgar25"
+  "/misskey/users/notes/:username": [
+    "siygle"
   ],
   "/misskon/posts/:routeParams?": [
     "Urabartin"
@@ -6151,9 +6136,6 @@
   "/swpu/scs/:code": [
     "CYTMWIA"
   ],
-  "/sycl/:feed?": [
-    "mocusez"
-  ],
   "/syosetu/chapter/:id": [
     "huangliangshusheng"
   ],
@@ -6459,9 +6441,6 @@
   ],
   "/tju/yzb/:type?": [
     "SuperPung"
-  ],
-  "/tkww/:column{.+}?": [
-    "quiniapiezoelectricity"
   ],
   "/tokeninsight/blog/:lang?": [
     "fuergaosi233"
@@ -7580,14 +7559,8 @@
     "junbaor",
     "yikZero"
   ],
-  "/zjut/cs/:type": [
-    "zhullyb"
-  ],
   "/zjut/da/:type": [
     "yikZero"
-  ],
-  "/zjut/jwc/:type": [
-    "zhullyb"
   ],
   "/zjuvag/blog": [
     "KaiyoungYu"
